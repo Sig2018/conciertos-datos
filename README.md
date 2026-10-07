@@ -14,10 +14,11 @@ URL de descarga directa:
 ## Formato
 ```json
 {"updated":"2026-10-07T02:30Z","events":[
-  {"title":"Deep Purple","date":"2026-12-08","date_end":null,"venue":"Santander Arena - Santiago Centro","sources":["PuntoTicket"]}
+  {"title":"BTS - World Tour ARIRANG","date":"2026-10-14","dates":["2026-10-14","2026-10-16","2026-10-17"],"venue":"Estadio Nacional","sources":["Ticketmaster"]}
 ]}
 ```
-- `date`: primer día del evento (`YYYY-MM-DD`). `date_end`: último día si dura varios, o `null`.
+- `date`: primer día del evento (`YYYY-MM-DD`). `dates`: **todas** las fechas exactas del evento, en orden
+  (pueden no ser consecutivas: en el ejemplo no hay función el 15).
 - `sources`: ticketera donde se publica el evento.
 
 ## Criterio de selección
