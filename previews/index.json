@@ -1,0 +1,116 @@
+{
+ "a_skylit_drive": {
+  "artist": "A Skylit Drive",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Drown the City"
+ },
+ "aitana": {
+  "artist": "Aitana",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Los Ángeles"
+ },
+ "babasonicos": {
+  "artist": "Babasonicos",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Irresponsables"
+ },
+ "blessd": {
+  "artist": "Blessd",
+  "kb": 468,
+  "origen": "itunes",
+  "track": "Instagram"
+ },
+ "bts": {
+  "artist": "BTS",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Dynamite"
+ },
+ "buena_vista_social_club": {
+  "artist": "Buena Vista Social Club",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Chan Chan"
+ },
+ "ca7riel_paco_amoroso": {
+  "artist": "CA7RIEL & PACO AMOROSO",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "DUMBAI"
+ },
+ "camila": {
+  "artist": "Camila",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Mientes"
+ },
+ "def_leppard": {
+  "artist": "Def Leppard",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Pour Some Sugar On Me"
+ },
+ "easykid": {
+  "artist": "EASYKID",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Shiny"
+ },
+ "ed_sheeran": {
+  "artist": "Ed Sheeran",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Shape of You"
+ },
+ "hayley_williams": {
+  "artist": "Hayley Williams",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Parachute"
+ },
+ "iron_maiden": {
+  "artist": "Iron Maiden",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Run to the Hills"
+ },
+ "kakkmaddafakka": {
+  "artist": "Kakkmaddafakka",
+  "kb": 467,
+  "origen": "lastfm",
+  "track": "Restless"
+ },
+ "los_fabulosos_cadillacs": {
+  "artist": "Los Fabulosos Cadillacs",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "El Matador"
+ },
+ "los_tres": {
+  "artist": "Los Tres",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Claus"
+ },
+ "marco_antonio_solis": {
+  "artist": "Marco Antonio Solis",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Si No Te Hubieras Ido"
+ },
+ "opeth": {
+  "artist": "Opeth",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Windowpane"
+ },
+ "the_gathering": {
+  "artist": "The Gathering",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Strange Machines"
+ }
+}
