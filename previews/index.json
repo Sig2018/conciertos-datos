@@ -1,4 +1,10 @@
 {
+ "a_perfect_circle": {
+  "artist": "A Perfect Circle",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Judith"
+ },
  "a_skylit_drive": {
   "artist": "A Skylit Drive",
   "kb": 468,
@@ -22,12 +28,6 @@
   "kb": 468,
   "origen": "itunes",
   "track": "Instagram"
- },
- "bts": {
-  "artist": "BTS",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Dynamite"
  },
  "buena_vista_social_club": {
   "artist": "Buena Vista Social Club",
@@ -101,16 +101,16 @@
   "origen": "lastfm",
   "track": "Si No Te Hubieras Ido"
  },
+ "maria_becerra": {
+  "artist": "Maria Becerra",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "AUTOMÁTICO"
+ },
  "opeth": {
   "artist": "Opeth",
   "kb": 468,
   "origen": "lastfm",
   "track": "Windowpane"
- },
- "the_gathering": {
-  "artist": "The Gathering",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Strange Machines"
  }
 }
