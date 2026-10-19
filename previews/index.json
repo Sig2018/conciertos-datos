@@ -95,12 +95,6 @@
   "origen": "lastfm",
   "track": "Claus"
  },
- "marco_antonio_solis": {
-  "artist": "Marco Antonio Solis",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Si No Te Hubieras Ido"
- },
  "maria_becerra": {
   "artist": "Maria Becerra",
   "kb": 468,
@@ -112,5 +106,11 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Windowpane"
+ },
+ "this_is_lorelei": {
+  "artist": "This is Lorelei",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Where's Your Love Now"
  }
 }
