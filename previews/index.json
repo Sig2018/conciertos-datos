@@ -11,12 +11,6 @@
   "origen": "lastfm",
   "track": "Drown the City"
  },
- "aitana": {
-  "artist": "Aitana",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Los Ángeles"
- },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -94,6 +88,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Claus"
+ },
+ "luck_ra": {
+  "artist": "Luck Ra",
+  "kb": 468,
+  "origen": "itunes",
+  "track": "TU MISTERIOSO ALGUIEN (CUARTETO) [feat. Miranda!]"
  },
  "maria_becerra": {
   "artist": "Maria Becerra",
