@@ -5,12 +5,6 @@
   "origen": "lastfm",
   "track": "Judith"
  },
- "a_skylit_drive": {
-  "artist": "A Skylit Drive",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Drown the City"
- },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -88,6 +82,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Claus"
+ },
+ "luar_la_l": {
+  "artist": "Luar La L",
+  "kb": 468,
+  "origen": "itunes",
+  "track": "Tu Favorito"
  },
  "luck_ra": {
   "artist": "Luck Ra",
