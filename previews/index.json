@@ -53,6 +53,12 @@
   "origen": "lastfm",
   "track": "Shape of You"
  },
+ "guy_gerber": {
+  "artist": "Guy Gerber",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "What To Do (&ME Remix)"
+ },
  "hayley_williams": {
   "artist": "Hayley Williams",
   "kb": 468,
@@ -76,12 +82,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "El Matador"
- },
- "los_tres": {
-  "artist": "Los Tres",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Claus"
  },
  "luck_ra": {
   "artist": "Luck Ra",
