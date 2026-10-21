@@ -11,6 +11,12 @@
   "origen": "lastfm",
   "track": "Irresponsables"
  },
+ "babymetal": {
+  "artist": "BABYMETAL",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Gimme Chocolate!!"
+ },
  "blessd": {
   "artist": "Blessd",
   "kb": 468,
@@ -76,12 +82,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "El Matador"
- },
- "los_tres": {
-  "artist": "Los Tres",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Claus"
  },
  "luck_ra": {
   "artist": "Luck Ra",
