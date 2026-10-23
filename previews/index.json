@@ -11,6 +11,12 @@
   "origen": "lastfm",
   "track": "Irresponsables"
  },
+ "babymetal": {
+  "artist": "BABYMETAL",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Gimme Chocolate!!"
+ },
  "blessd": {
   "artist": "Blessd",
   "kb": 468,
@@ -88,12 +94,6 @@
   "kb": 468,
   "origen": "itunes",
   "track": "TU MISTERIOSO ALGUIEN (CUARTETO) [feat. Miranda!]"
- },
- "marco_antonio_solis": {
-  "artist": "Marco Antonio Solis",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Si No Te Hubieras Ido"
  },
  "maria_becerra": {
   "artist": "Maria Becerra",
