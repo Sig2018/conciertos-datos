@@ -11,12 +11,6 @@
   "origen": "lastfm",
   "track": "Irresponsables"
  },
- "babymetal": {
-  "artist": "BABYMETAL",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Gimme Chocolate!!"
- },
  "blessd": {
   "artist": "Blessd",
   "kb": 468,
@@ -70,6 +64,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Run to the Hills"
+ },
+ "jorja_smith": {
+  "artist": "Jorja Smith",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Little Things x Gypsy Woman (L BEATS MASHUP)"
  },
  "kakkmaddafakka": {
   "artist": "Kakkmaddafakka",
