@@ -59,6 +59,12 @@
   "origen": "lastfm",
   "track": "Parachute"
  },
+ "humbe": {
+  "artist": "Humbe",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "fantasmas"
+ },
  "iron_maiden": {
   "artist": "Iron Maiden",
   "kb": 468,
@@ -94,12 +100,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Si No Te Hubieras Ido"
- },
- "maria_becerra": {
-  "artist": "Maria Becerra",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "AUTOMÁTICO"
  },
  "opeth": {
   "artist": "Opeth",
