@@ -1,10 +1,4 @@
 {
- "a_perfect_circle": {
-  "artist": "A Perfect Circle",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Judith"
- },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -70,6 +64,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Run to the Hills"
+ },
+ "jeff_mills": {
+  "artist": "Jeff Mills",
+  "kb": 467,
+  "origen": "lastfm",
+  "track": "The Bells"
  },
  "jorja_smith": {
   "artist": "Jorja Smith",
