@@ -17,12 +17,6 @@
   "origen": "lastfm",
   "track": "Chan Chan"
  },
- "ca7riel_paco_amoroso": {
-  "artist": "CA7RIEL & PACO AMOROSO",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "DUMBAI"
- },
  "camila": {
   "artist": "Camila",
   "kb": 468,
@@ -34,6 +28,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Pour Some Sugar On Me"
+ },
+ "dillom": {
+  "artist": "Dillom",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Cirugía"
  },
  "easykid": {
   "artist": "EASYKID",
