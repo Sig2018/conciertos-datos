@@ -1,4 +1,10 @@
 {
+ "a_perfect_circle": {
+  "artist": "A Perfect Circle",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Judith"
+ },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -16,6 +22,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Chan Chan"
+ },
+ "ca7riel_paco_amoroso": {
+  "artist": "CA7RIEL & PACO AMOROSO",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "DUMBAI"
  },
  "camila": {
   "artist": "Camila",
