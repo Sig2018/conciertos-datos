@@ -1,10 +1,4 @@
 {
- "a_perfect_circle": {
-  "artist": "A Perfect Circle",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Judith"
- },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -58,6 +52,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Shape of You"
+ },
+ "guy_gerber": {
+  "artist": "Guy Gerber",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "What To Do (&ME Remix)"
  },
  "hayley_williams": {
   "artist": "Hayley Williams",
