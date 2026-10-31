@@ -1,4 +1,10 @@
 {
+ "a_perfect_circle": {
+  "artist": "A Perfect Circle",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Judith"
+ },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -65,12 +71,6 @@
   "origen": "lastfm",
   "track": "Parachute"
  },
- "humbe": {
-  "artist": "Humbe",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "fantasmas"
- },
  "iron_maiden": {
   "artist": "Iron Maiden",
   "kb": 468,
@@ -95,12 +95,6 @@
   "origen": "lastfm",
   "track": "Restless"
  },
- "los_fabulosos_cadillacs": {
-  "artist": "Los Fabulosos Cadillacs",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "El Matador"
- },
  "los_tres": {
   "artist": "Los Tres",
   "kb": 468,
@@ -112,6 +106,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Si No Te Hubieras Ido"
+ },
+ "maria_becerra": {
+  "artist": "Maria Becerra",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "AUTOMÁTICO"
  },
  "opeth": {
   "artist": "Opeth",
