@@ -11,12 +11,6 @@
   "origen": "lastfm",
   "track": "Irresponsables"
  },
- "blessd": {
-  "artist": "Blessd",
-  "kb": 468,
-  "origen": "itunes",
-  "track": "Instagram"
- },
  "buena_vista_social_club": {
   "artist": "Buena Vista Social Club",
   "kb": 468,
@@ -118,5 +112,11 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Windowpane"
+ },
+ "this_is_lorelei": {
+  "artist": "This is Lorelei",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Where's Your Love Now"
  }
 }
