@@ -35,6 +35,12 @@
   "origen": "lastfm",
   "track": "Mientes"
  },
+ "cypress_hill": {
+  "artist": "Cypress Hill",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Insane in the Brain"
+ },
  "def_leppard": {
   "artist": "Def Leppard",
   "kb": 468,
@@ -52,12 +58,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Shape of You"
- },
- "giant_rooks": {
-  "artist": "Giant Rooks",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Wild Stare"
  },
  "gorillaz": {
   "artist": "GORILLAZ",
