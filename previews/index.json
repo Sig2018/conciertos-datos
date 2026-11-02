@@ -11,6 +11,12 @@
   "origen": "lastfm",
   "track": "Irresponsables"
  },
+ "babymetal": {
+  "artist": "BABYMETAL",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Gimme Chocolate!!"
+ },
  "buena_vista_social_club": {
   "artist": "Buena Vista Social Club",
   "kb": 468,
@@ -35,12 +41,6 @@
   "origen": "lastfm",
   "track": "Pour Some Sugar On Me"
  },
- "dillom": {
-  "artist": "Dillom",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Cirugía"
- },
  "easykid": {
   "artist": "EASYKID",
   "kb": 468,
@@ -53,6 +53,18 @@
   "origen": "lastfm",
   "track": "Shape of You"
  },
+ "giant_rooks": {
+  "artist": "Giant Rooks",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Wild Stare"
+ },
+ "gorillaz": {
+  "artist": "GORILLAZ",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Feel Good Inc"
+ },
  "guy_gerber": {
   "artist": "Guy Gerber",
   "kb": 468,
@@ -64,12 +76,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Parachute"
- },
- "iron_maiden": {
-  "artist": "Iron Maiden",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Run to the Hills"
  },
  "jeff_mills": {
   "artist": "Jeff Mills",
@@ -106,12 +112,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "AUTOMÁTICO"
- },
- "opeth": {
-  "artist": "Opeth",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Windowpane"
  },
  "this_is_lorelei": {
   "artist": "This is Lorelei",
