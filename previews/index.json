@@ -59,6 +59,12 @@
   "origen": "lastfm",
   "track": "Shape of You"
  },
+ "giant_rooks": {
+  "artist": "Giant Rooks",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Wild Stare"
+ },
  "gorillaz": {
   "artist": "GORILLAZ",
   "kb": 468,
@@ -83,12 +89,6 @@
   "origen": "lastfm",
   "track": "The Bells"
  },
- "jorja_smith": {
-  "artist": "Jorja Smith",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Little Things x Gypsy Woman (L BEATS MASHUP)"
- },
  "kakkmaddafakka": {
   "artist": "Kakkmaddafakka",
   "kb": 467,
@@ -101,17 +101,17 @@
   "origen": "lastfm",
   "track": "Claus"
  },
- "marco_antonio_solis": {
-  "artist": "Marco Antonio Solis",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Si No Te Hubieras Ido"
- },
  "maria_becerra": {
   "artist": "Maria Becerra",
   "kb": 468,
   "origen": "lastfm",
   "track": "AUTOMÁTICO"
+ },
+ "nicky_jam": {
+  "artist": "Nicky Jam",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Hasta el Amanecer"
  },
  "this_is_lorelei": {
   "artist": "This is Lorelei",
