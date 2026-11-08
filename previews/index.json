@@ -65,12 +65,6 @@
   "origen": "lastfm",
   "track": "Feel Good Inc"
  },
- "guy_gerber": {
-  "artist": "Guy Gerber",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "What To Do (&ME Remix)"
- },
  "hayley_williams": {
   "artist": "Hayley Williams",
   "kb": 468,
@@ -100,6 +94,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "AUTOMÁTICO"
+ },
+ "nanpa_basico": {
+  "artist": "Nanpa Básico",
+  "kb": 468,
+  "origen": "itunes",
+  "track": "Me Da Lo Mismo"
  },
  "nicky_jam": {
   "artist": "Nicky Jam",
