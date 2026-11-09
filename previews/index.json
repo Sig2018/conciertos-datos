@@ -35,12 +35,6 @@
   "origen": "lastfm",
   "track": "Insane in the Brain"
  },
- "def_leppard": {
-  "artist": "Def Leppard",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Pour Some Sugar On Me"
- },
  "easykid": {
   "artist": "EASYKID",
   "kb": 468,
@@ -88,6 +82,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Claus"
+ },
+ "mana": {
+  "artist": "Maná",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Oye Mi Amor"
  },
  "maria_becerra": {
   "artist": "Maria Becerra",
