@@ -29,6 +29,12 @@
   "origen": "lastfm",
   "track": "Mientes"
  },
+ "deep_purple": {
+  "artist": "Deep Purple",
+  "kb": 467,
+  "origen": "lastfm",
+  "track": "Smoke On the Water"
+ },
  "ed_sheeran": {
   "artist": "Ed Sheeran",
   "kb": 468,
@@ -70,12 +76,6 @@
   "kb": 468,
   "origen": "itunes",
   "track": "Destello..."
- },
- "los_tres": {
-  "artist": "Los Tres",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Claus"
  },
  "mana": {
   "artist": "Maná",
