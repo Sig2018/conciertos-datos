@@ -59,6 +59,12 @@
   "origen": "lastfm",
   "track": "Parachute"
  },
+ "javiera_mena": {
+  "artist": "Javiera Mena",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Al Siguiente Nivel"
+ },
  "jeff_mills": {
   "artist": "Jeff Mills",
   "kb": 467,
@@ -106,11 +112,5 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Where's Your Love Now"
- },
- "zz_top": {
-  "artist": "ZZ Top",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "La Grange"
  }
 }
