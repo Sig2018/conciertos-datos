@@ -35,6 +35,12 @@
   "origen": "lastfm",
   "track": "Smoke On the Water"
  },
+ "djavan": {
+  "artist": "Djavan",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Oceano"
+ },
  "ed_sheeran": {
   "artist": "Ed Sheeran",
   "kb": 468,
@@ -58,12 +64,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Parachute"
- },
- "javiera_mena": {
-  "artist": "Javiera Mena",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Al Siguiente Nivel"
  },
  "jeff_mills": {
   "artist": "Jeff Mills",
