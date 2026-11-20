@@ -71,12 +71,6 @@
   "origen": "lastfm",
   "track": "The Bells"
  },
- "kakkmaddafakka": {
-  "artist": "Kakkmaddafakka",
-  "kb": 467,
-  "origen": "lastfm",
-  "track": "Restless"
- },
  "kidd_voodoo": {
   "artist": "Kidd Voodoo",
   "kb": 468,
@@ -106,6 +100,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Hasta el Amanecer"
+ },
+ "slayer": {
+  "artist": "Slayer",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Raining Blood"
  },
  "this_is_lorelei": {
   "artist": "This is Lorelei",
