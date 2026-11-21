@@ -5,6 +5,12 @@
   "origen": "lastfm",
   "track": "Judith"
  },
+ "akriila": {
+  "artist": "Akriila",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "superficial"
+ },
  "babasonicos": {
   "artist": "Babasonicos",
   "kb": 468,
@@ -22,12 +28,6 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "DUMBAI"
- },
- "camila": {
-  "artist": "Camila",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Mientes"
  },
  "deep_purple": {
   "artist": "Deep Purple",
@@ -65,11 +65,11 @@
   "origen": "lastfm",
   "track": "Al Siguiente Nivel"
  },
- "jeff_mills": {
-  "artist": "Jeff Mills",
-  "kb": 467,
+ "jere_klein": {
+  "artist": "Jere Klein",
+  "kb": 468,
   "origen": "lastfm",
-  "track": "The Bells"
+  "track": "ANDO"
  },
  "kidd_voodoo": {
   "artist": "Kidd Voodoo",
@@ -89,12 +89,6 @@
   "origen": "lastfm",
   "track": "AUTOMÁTICO"
  },
- "nanpa_basico": {
-  "artist": "Nanpa Básico",
-  "kb": 468,
-  "origen": "itunes",
-  "track": "Me Da Lo Mismo"
- },
  "nicky_jam": {
   "artist": "Nicky Jam",
   "kb": 468,
@@ -112,5 +106,11 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Where's Your Love Now"
+ },
+ "xlov": {
+  "artist": "XLOV",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "1&Only"
  }
 }
