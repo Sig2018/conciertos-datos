@@ -11,11 +11,11 @@
   "origen": "lastfm",
   "track": "superficial"
  },
- "babasonicos": {
-  "artist": "Babasonicos",
+ "anuel_aa": {
+  "artist": "Anuel AA",
   "kb": 468,
-  "origen": "lastfm",
-  "track": "Irresponsables"
+  "origen": "itunes",
+  "track": "Little Demon"
  },
  "babymetal": {
   "artist": "BABYMETAL",
@@ -35,12 +35,6 @@
   "origen": "lastfm",
   "track": "Smoke On the Water"
  },
- "djavan": {
-  "artist": "Djavan",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "Oceano"
- },
  "ed_sheeran": {
   "artist": "Ed Sheeran",
   "kb": 468,
@@ -58,6 +52,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Feel Good Inc"
+ },
+ "inti_illimani": {
+  "artist": "Inti-Illimani",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "Alturas"
  },
  "javiera_mena": {
   "artist": "Javiera Mena",
