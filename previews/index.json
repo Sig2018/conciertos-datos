@@ -29,12 +29,6 @@
   "origen": "lastfm",
   "track": "Gimme Chocolate!!"
  },
- "ca7riel_paco_amoroso": {
-  "artist": "CA7RIEL & PACO AMOROSO",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "DUMBAI"
- },
  "deep_purple": {
   "artist": "Deep Purple",
   "kb": 467,
@@ -70,6 +64,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "ANDO"
+ },
+ "kard": {
+  "artist": "Kard",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "ICKY"
  },
  "kidd_voodoo": {
   "artist": "Kidd Voodoo",
