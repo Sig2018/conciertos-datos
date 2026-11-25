@@ -23,6 +23,12 @@
   "origen": "itunes",
   "track": "Little Demon"
  },
+ "anyma": {
+  "artist": "Anyma",
+  "kb": 468,
+  "origen": "itunes",
+  "track": "After Love (feat. Delilah Montagu)"
+ },
  "babymetal": {
   "artist": "BABYMETAL",
   "kb": 468,
@@ -106,11 +112,5 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Where's Your Love Now"
- },
- "xlov": {
-  "artist": "XLOV",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "1&Only"
  }
 }
