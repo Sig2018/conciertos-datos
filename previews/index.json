@@ -11,12 +11,6 @@
   "origen": "lastfm",
   "track": "superficial"
  },
- "alexisonfire": {
-  "artist": "Alexisonfire",
-  "kb": 468,
-  "origen": "lastfm",
-  "track": "This Could Be Anywhere in the World"
- },
  "anuel_aa": {
   "artist": "Anuel AA",
   "kb": 468,
@@ -52,6 +46,12 @@
   "kb": 468,
   "origen": "lastfm",
   "track": "Feel Good Inc"
+ },
+ "guy_gerber": {
+  "artist": "Guy Gerber",
+  "kb": 468,
+  "origen": "lastfm",
+  "track": "What To Do (&ME Remix)"
  },
  "inti_illimani": {
   "artist": "Inti-Illimani",
